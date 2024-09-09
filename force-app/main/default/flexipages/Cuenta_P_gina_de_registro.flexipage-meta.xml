@@ -102,6 +102,18 @@
                 <identifier>RecordCampo_B_cField</identifier>
             </fieldInstance>
         </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldItem>Record.CheckboxUserBase__c</fieldItem>
+                <identifier>RecordCheckboxUserBase__cField</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldItem>Record.NumberBaseUser__c</fieldItem>
+                <identifier>RecordNumberBaseUser__cField</identifier>
+            </fieldInstance>
+        </itemInstances>
         <name>Facet-4ccd0ce6-b137-481a-b6fc-c9e6772d9d39</name>
         <type>Facet</type>
     </flexiPageRegions>
