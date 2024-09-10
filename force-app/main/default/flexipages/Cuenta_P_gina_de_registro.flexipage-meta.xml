@@ -108,6 +108,12 @@
                 <identifier>RecordCheckboxPOC__cField</identifier>
             </fieldInstance>
         </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldItem>Record.TestCheckbox__c</fieldItem>
+                <identifier>RecordTestCheckbox__cField</identifier>
+            </fieldInstance>
+        </itemInstances>
         <name>Facet-4ccd0ce6-b137-481a-b6fc-c9e6772d9d39</name>
         <type>Facet</type>
     </flexiPageRegions>
