@@ -61,6 +61,10 @@
                 <behavior>Edit</behavior>
                 <field>CheckboxPOC__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>TestCheckbox__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
