@@ -256,7 +256,7 @@
         <type>Facet</type>
     </flexiPageRegions>
     <flexiPageRegions>
-        <name>Facet-974789ba-924d-4287-951d-f3dccb21d7e6</name>
+        <name>Facet-88d51fc4-019a-4883-a4fd-5bb4395d6d67</name>
         <type>Facet</type>
     </flexiPageRegions>
     <flexiPageRegions>
@@ -278,11 +278,11 @@
             <componentInstance>
                 <componentInstanceProperties>
                     <name>body</name>
-                    <value>Facet-974789ba-924d-4287-951d-f3dccb21d7e6</value>
+                    <value>Facet-88d51fc4-019a-4883-a4fd-5bb4395d6d67</value>
                 </componentInstanceProperties>
                 <componentInstanceProperties>
                     <name>title</name>
-                    <value>DevOps Center</value>
+                    <value>Standard.Tab.crisisCenterNotes</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tab</componentName>
                 <identifier>flexipage_tab</identifier>
