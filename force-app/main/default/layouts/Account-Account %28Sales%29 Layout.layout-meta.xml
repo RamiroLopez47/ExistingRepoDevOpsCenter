@@ -65,6 +65,10 @@
                 <behavior>Edit</behavior>
                 <field>TestCheckbox__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Mensaje_desde_Flow__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
